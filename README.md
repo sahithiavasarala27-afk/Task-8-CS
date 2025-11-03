@@ -89,14 +89,7 @@ ProtonVPN successfully masked the real IP and routed traffic through an encrypte
 ❌ Limited countries in free version.  
 ❌ Slight reduction in browsing speed.  
 ❌ Some streaming services block VPN IPs.  
-❌ Advanced features available only for paid users.
-
----
-
-## Deliverables
-
-- `report.md` – Detailed explanation of procedures and analysis.  
-- `screenshots/` – Contains before and after connection screenshots.    
+❌ Advanced features available only for paid users.  
 
 ---
 
